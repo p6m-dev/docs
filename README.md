@@ -1,5 +1,10 @@
 # Docs
 
 ## Tools
-- [Git]()
-- [Archetect](./archetect/archetect_installation.md)
+- [Git](./git/git.md)
+- [Archetect](./archetect/archetect.md)
+- [p6m]()
+- [Docker]()
+- [k8s]()
+- [Java]()
+- [.NET]()
