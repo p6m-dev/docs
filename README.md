@@ -8,3 +8,5 @@
 - [k8s](./k8s/k8s.md)
 - [Java](./java/java.md)
 - [.NET](./dotnet/dotnet.md)
+- [AWS](./aws/aws.md)
+- [Azure](./azure/azure.md)
