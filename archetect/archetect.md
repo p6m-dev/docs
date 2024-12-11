@@ -61,7 +61,7 @@ archetect -U
 
 ### Predefined answers with `-a` option
 ```sh
-archetect -a org-name=ybor -a solution-name=playground
+archetect -a org-name=xyz -a solution-name=playground
 ```
 
 ### Clear cache
