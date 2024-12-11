@@ -3,7 +3,7 @@
 ## Tools
 - [Git](./git/git.md)
 - [Archetect](./archetect/archetect.md)
-- [p6m](https://github.com/p6m-dev/p6m-cli?tab=readme-ov-file)
+- [p6m](./p6m/p6m.md)
 - [Docker](./docker/docker.md)
 - [k8s](./k8s/k8s.md)
 - [Java](./java/java.md)
@@ -14,7 +14,7 @@
 
 ## Archetypes
 - Backend
-  - GraphQL Federated Gateway
+  - [GraphQL Federated Gateway](./archetypes/backend/graphql_federated_gateway.md)
   - Domain Gateway
     - Java
     - .NET
