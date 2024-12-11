@@ -10,3 +10,20 @@
 - [.NET](./dotnet/dotnet.md)
 - [AWS](./aws/aws.md)
 - [Azure](./azure/azure.md)
+
+
+## Archetypes
+- Backend
+  - GraphQL Federated Gateway
+  - Domain Gateway
+    - Java
+    - .NET
+  - Service
+    - Java
+    - .NET
+  - Adapter
+  - Orchestrator
+- Frontend
+  - Frontend Monorepo
+- Data
+- AI/ML

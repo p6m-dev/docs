@@ -3,6 +3,10 @@
 ## Git Installation
 [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
+```sh
+git --version
+```
+
 ## SSH Key Generation
 ```sh
 ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
